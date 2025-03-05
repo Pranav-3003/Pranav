@@ -14,10 +14,10 @@
   </a>
 
 </p>
----
-### 🛠️ Languages and Tools
+
+🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,mysql,mongodb,androidstudio,kotlin,git" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,mysql,androidstudio" />
 </p>
----
+
 
