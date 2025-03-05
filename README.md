@@ -1,15 +1,35 @@
-<h1 align="center">Hi 👋, I'm Pranav Shelke</h1>
-<h3 align="center">Learning day by day!!!!!!!</h3>
+<h1 align="center">Hellooo  👋, I'm Pranav Shelke</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on **android app,**
-
-- 🌱 I’m currently learning **react.**
-
-- 📫 How to reach me **pranavshelke3003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshisapike&label=Profile%20views&color=0e75b6&style=flat" alt="sakshisapike" />
 </p>
+<p align="center">
+ <img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+</p>
+---
+### 🌟 About Me
+- 🌱 I’m currently learning **Front-Backend Development**.
+- 🤝 I’m looking for help with **Web Development**.
+- 💬 Ask me about **Java Development**.
+- 📫 How to reach me: **pranavshelke@gmail.com**.
+---
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-shelke" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://leetcode.com/u/pranav306/" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</p>
+---
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,mysql,mongodb,androidstudio,kotlin,git" />
+</p>
+---
+
